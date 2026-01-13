@@ -29,6 +29,48 @@ AWS Certified Solutions Architect
 
 🚀 Projects:
 
+AWS EC2 Web App Project
+
+Description:
+This is a hands-on cloud project where I deployed a simple web application on AWS EC2 using Amazon Linux and Apache HTTP Server. The project demonstrates practical skills in Linux server management, cloud deployment, and Git version control.
+
+Key Features / Skills Demonstrated:
+
+Launching and configuring EC2 instances with public IP
+
+Setting up Security Groups for SSH and HTTP access
+
+Connecting to the server using PuTTY and managing files via terminal
+
+Installing and configuring Apache to serve a web page
+
+Creating and deploying a basic HTML web page
+
+Using SSH keys to securely push project files to GitHub
+
+Resolving divergent branches and managing remote repositories
+
+Tech Stack:
+
+AWS EC2 (Amazon Linux 2)
+
+Apache HTTP Server
+
+Linux commands / Bash
+
+Git & GitHub (SSH)
+
+Outcome:
+
+Deployed a fully functional web page accessible via browser
+
+Project hosted on GitHub as part of my professional portfolio
+
+Demonstrates cloud deployment, Linux server management, and version control skills
+
+GitHub Link: https://github.com/faizahgit/MyAWSWebApp
+
+
 🎯 Career Objective:
 
 Seeking an entry-level Cloud or DevOps Engineer role where I can apply my cloud knowledge, grow my automation skills, and contribute to modern cloud-based systems.
