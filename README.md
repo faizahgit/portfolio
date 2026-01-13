@@ -35,9 +35,9 @@ Seeking an entry-level Cloud or DevOps Engineer role where I can apply my cloud 
 
 📫 Contact
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/faizah-alhudhali-1981973a2 
 
-GitHub
+GitHub: https://github.com/faizahgit
 
 
 
